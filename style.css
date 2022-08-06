@@ -93,6 +93,11 @@ body {
     text-align: center;
     margin-bottom: 84px;
 }
+.img-conteiner{
+    margin: 0 auto;
+    width: 250px;
+    margin-bottom: 67px;
+}
 .img-son22{
     display: flex;
     align-items: center;
@@ -102,4 +107,38 @@ body {
     background-color:#928d8d;
     justify-content:center;
 }
+.main-mod{
+    margin-bottom: 17px;
+    font-size: 32px;
+    text-align: center;
+    line-height: 29px;
+}
+.main-read{
+    text-align: center;
+    font-size: 32px;
+    line-height: 50px;
+}
+.img-conteiner-sw{
+    margin: 0 auto;
+    width: 500px;
+}
+.footer-title{
+    text-align: center;
+    font-size: 32px;
+    line-height: 60px;
+    font-weight: 400;
+    padding-top: 59px;
+}
+.footer-text{
+    text-align: center;
+    font-size: 24px;
+    line-height: 41px;
+    margin-bottom: 58px;
+}
+.footer_text_div {
+    width: 515px;
+    height: 231px;
+    left: 750px;
+    position: absolute;
 
+}     
